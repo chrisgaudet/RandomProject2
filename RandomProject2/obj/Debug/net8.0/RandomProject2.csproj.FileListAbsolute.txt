@@ -1,0 +1,14 @@
+C:\repos\RandomProject2\RandomProject2\bin\Debug\net8.0\RandomProject2.exe
+C:\repos\RandomProject2\RandomProject2\bin\Debug\net8.0\RandomProject2.deps.json
+C:\repos\RandomProject2\RandomProject2\bin\Debug\net8.0\RandomProject2.runtimeconfig.json
+C:\repos\RandomProject2\RandomProject2\bin\Debug\net8.0\RandomProject2.dll
+C:\repos\RandomProject2\RandomProject2\bin\Debug\net8.0\RandomProject2.pdb
+C:\repos\RandomProject2\RandomProject2\obj\Debug\net8.0\RandomProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\RandomProject2\RandomProject2\obj\Debug\net8.0\RandomProject2.AssemblyInfoInputs.cache
+C:\repos\RandomProject2\RandomProject2\obj\Debug\net8.0\RandomProject2.AssemblyInfo.cs
+C:\repos\RandomProject2\RandomProject2\obj\Debug\net8.0\RandomProject2.csproj.CoreCompileInputs.cache
+C:\repos\RandomProject2\RandomProject2\obj\Debug\net8.0\RandomProject2.dll
+C:\repos\RandomProject2\RandomProject2\obj\Debug\net8.0\refint\RandomProject2.dll
+C:\repos\RandomProject2\RandomProject2\obj\Debug\net8.0\RandomProject2.pdb
+C:\repos\RandomProject2\RandomProject2\obj\Debug\net8.0\RandomProject2.genruntimeconfig.cache
+C:\repos\RandomProject2\RandomProject2\obj\Debug\net8.0\ref\RandomProject2.dll
